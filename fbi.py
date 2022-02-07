@@ -66,11 +66,13 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
+    Author     Abhishek Kumar
     Name       Facebook Information
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       07/02/2022
+    Email     abhishek15620041@gmail.com
+    Instragram   @riskyboy97174 
+    
 
 * if you find any errors or problems , please contact
   author
